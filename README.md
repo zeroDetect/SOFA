@@ -1,4 +1,5 @@
 # SOFA
 SOFA: Service-Oriented Fine-Grained Attack Detection with Meta Learning
-![Uploading image.png…]()
+![image](https://github.com/zeroDetect/SOFA/blob/main/img/framework.png)
+
 
