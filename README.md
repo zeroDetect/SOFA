@@ -22,3 +22,5 @@ python sessionpcap2npz.py
 ```
 pthon main.py
 ```
+## Reference
+1. [A Survey on Threat Hunting in Enterprise Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10216378) -  Boubakr Nour, Makan Pourzandi, Mourad Debbabi，IEEE Communications Surveys & Tutorials, 2023.
