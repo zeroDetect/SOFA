@@ -8,5 +8,6 @@ In this paper, we present SOFA, a novel two-stage framework designed to address 
 
 ## Running
 To perform this test code, run with
-``` pthon main.py
+```
+pthon main.py
 ```
